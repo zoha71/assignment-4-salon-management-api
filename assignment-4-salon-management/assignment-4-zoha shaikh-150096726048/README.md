@@ -795,7 +795,7 @@ Possible improvements include:
 
 # 👩‍💻 Author
 
-**Mahek Yadav**
+**zoha shaikh**
 
 B.Tech CSE Student
 
